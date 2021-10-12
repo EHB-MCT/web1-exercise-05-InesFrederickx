@@ -1,0 +1,41 @@
+body{
+
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+
+}
+
+.kader{
+    width: 920px;
+    margin: 0 auto;
+}
+
+.featured{
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+.who-is-who{
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+.featured1{
+    float: left;
+    margin-right: 20px;
+}
+
+.item{
+    float: left;
+}
+
+
+h1{
+    color: #0180e9;  
+}
+
+h2{
+    font-size: small;
+}
